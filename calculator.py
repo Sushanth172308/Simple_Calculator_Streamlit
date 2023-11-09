@@ -1,6 +1,6 @@
 import streamlit as st
  
-st.title("simple calculator")
+st.title("Victor calculator")
  
 # creates a horizontal line
 st.write("---")
